@@ -21,7 +21,7 @@ img{
 }
 .search_div p{
     font-size: 20px;
-    margin: 20px 0;
+    margin: 20px 0 5px 0;
 }
 .search_bar{
     width: 800px;
@@ -62,7 +62,11 @@ h3 a{
     text-decoration: none;
     margin: 5px 0;
 }
-
+.by{
+    text-align:center;
+    font-size:10px;
+    margin-bottom:20px;
+}
 /* Responsive */
 
 @media (max-width: 910px){
